@@ -14,5 +14,3 @@ I am a student at SJC INSTITUTE OF TECHNOLOGY
 
 ---
 [![](https://komarev.com/ghpvc/?username=cchethuchethan19-svg&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
